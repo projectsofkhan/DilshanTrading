@@ -4,7 +4,7 @@
 
 **Polythene bags, made simple.**
 
-A clean, animated, one-page website for a polythene PP bag supplier based in
+Seller and manufacturer of polythene PP bags.
 Khandwa, Madhya Pradesh.
 
 [Products](#-what-we-supply) · [Delivery](#-where-we-deliver) · [Contact](#-get-in-touch)
@@ -13,89 +13,131 @@ Khandwa, Madhya Pradesh.
 
 ---
 
-## ✨ What this is
+## Who we are
 
-A small, self-contained marketing site for **Dilshan Trading** — a seller and
-manufacturer of polythene PP bags operating out of Khandwa, Madhya Pradesh.
+Dilshan Trading is a local polythene bag supplier based in **Khandwa, Madhya
+Pradesh**. We sell and manufacture **PP (polypropylene) polythene bags** for
+everyday business use — the kind of bags shops, traders, and households reach
+for without thinking twice.
 
-The site does four simple things, and it does them well:
-
-1. **Introduces the business** in one clear screen.
-2. **Shows the three bag sizes** on offer, each linking directly to WhatsApp.
-3. **Lists the delivery towns** across Madhya Pradesh and beyond.
-4. **Gets the visitor on a call or a chat** as quickly as possible.
-
-No build tools. No frameworks. No dependencies to install. Three files, and
-you're live.
+We are a small, personally-run business. When you call us, you speak to the
+people who actually pack and send your order. No call centres, no
+runaround — just a straight answer about whether we can supply what you need.
 
 ---
 
-## 🎨 The design
+## What we supply
 
-The theme is deliberately **quiet and confident** — it looks like a real local
-business, not a template.
+We stock **three core polythene bag sizes**, covering the most common
+everyday requirements:
 
-### Two colors, that's it
+### 01 — Quarter / Small
 
-| Role | Name | Value |
-| :--- | :--- | :--- |
-| Background | **White** | `#ffffff` |
-| Accent | **Coral** | `#ff7355` |
+For smaller, everyday requirements. Quick to handle, light to carry, and
+sized for shops and households that need a compact bag for smaller items.
 
-Everything else is a variation on those two:
+### 02 — Medium
 
-| Role | Name | Value |
-| :--- | :--- | :--- |
-| Accent deep (hover, emphasis) | Coral deep | `#e84b2c` |
-| Accent soft (borders, chips) | Coral soft | `#ffe7de` |
-| Accent tint (hover fills) | Coral tint | `#fff3ee` |
-| Main text | Ink | `#1d1a17` |
-| Body text | Ink 2 | `#3d3833` |
-| Muted text | Muted | `#7a726a` |
-| Faint text | Faint | `#aaa29a` |
+A versatile, all-purpose option. Medium bags suit the widest range of
+day-to-day business needs — the size most customers come back for.
 
-No gradients. No shadows-as-decoration. No extra hues. Just **white and coral**,
-carried through every element on the page.
+### 03 — Fugga / Large
 
-### Type
+For larger carrying needs. Built to hold more without giving way, and used
+by traders and shops that move bigger or heavier items.
 
-- **Quicksand** — headings. Rounded, geometric, friendly.
-- **Nunito** — body text. Warm, readable, human.
-
-Together they give the site its "cute but professional" personality. Not
-childish. Not corporate. Just approachable.
-
-### Shapes
-
-Everything is **soft and rounded**:
-
-- Buttons are full pills.
-- Cards use 32px corners.
-- The mobile menu floats as a rounded panel.
-- The contact section is one large coral block with 40px corners.
-
-Nothing is sharp. Nothing feels like a default bootstrap component.
+> Exact dimensions and rates depend on the order. Please enquire for
+> confirmed details.
 
 ---
 
-## 🎬 Motion
+## How ordering works
 
-The site is animated — but gently. Every motion has a reason.
+We keep it simple — three steps, no runaround.
 
-| Where | What happens |
+**01. Share the size**
+Tell us which bag fits your work — Quarter, Medium, or Fugga. Not sure?
+Describe what you're packing and we'll help you choose.
+
+**02. Confirm the quantity**
+Let us know how many you need and where you're located. We'll check
+stock, rates, and delivery feasibility for your order.
+
+**03. We take it forward**
+Once the details are agreed, we finalise the order and keep you posted
+on dispatch or pickup — whichever suits you.
+
+**Order channels:** online (WhatsApp) and offline (in person or by phone).
+
+---
+
+## Where we deliver
+
+We regularly deliver to the following towns:
+
+> **Khandwa · Mundi · Punasa · Harda · Barwaha**
+
+We also reach the following areas, on request and subject to availability:
+
+> **Indore · Khalwa · Khar · Bhopal · Madni · Nasik · Timarni** and nearby towns.
+
+**Outside these towns?** Send us your location anyway — we will let you know
+honestly whether we can reach you.
+
+Delivery timings and charges vary by location. Please confirm when you
+enquire.
+
+---
+
+## Why customers come back
+
+- **Personally run.** You speak to the owner, not a script.
+- **Two ways to order.** WhatsApp for speed, phone for a real conversation.
+- **Confirmed before dispatch.** We tell you honestly what's in stock and
+  what it will cost before you commit.
+- **Local reach.** We know the towns we serve, and we know how to get
+  bags there.
+- **Fair on rates.** Bag pricing depends on size and quantity — we quote
+  clearly, without hidden charges.
+
+---
+
+## Get in touch
+
+| Method | Detail |
 | :--- | :--- |
-| **Hero headline** | Words rise one at a time from below a clip mask |
-| **Wavy underline** | Draws itself under the word *"simple."* on load |
-| **Nav links** | A repeating coral wave sweeps in on hover |
-| **Buttons** | Lift 2px with a soft shadow bloom |
-| **Cards** | Lift 6px, tint to coral, and rotate their number badge |
-| **Delivery chips** | Bounce up on hover and fill with coral |
-| **Counters** | Count from `0` up to their target when scrolled into view |
-| **Section reveals** | Fade up 22px with a soft ease |
-| **Back-to-top** | Fades in after 460px and lifts on hover |
+| **WhatsApp** | [+91 62614 91292](https://wa.me/916261491292?text=Hello%21) |
+| **Phone** | [+91 62614 91292](tel:+916261491292) |
+| **Address** | Dubey Colony, Khandwa, Madhya Pradesh 450001 |
+| **Instagram** | [@dilshantrading](https://www.instagram.com/dilshantrading) |
 
-Everything uses the same easing family:
+### What to tell us
 
-```css
---ease:        cubic-bezier(0.22, 1, 0.36, 1);
---ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+When you get in touch, please share:
+
+- **Which size** you want — Quarter, Medium, or Fugga
+- **How many bags** you need
+- **Where you are located**
+- **Your name and phone number**
+
+After you send your message on WhatsApp, **we will call you back** to confirm
+the details and finalise your order.
+
+---
+
+## About this page
+
+This README is the reference description for **Dilshan Trading** — its
+products, its delivery areas, and how customers reach us. For questions,
+corrections, or updates to any of the information above, contact us using
+the details in the **Get in touch** section.
+
+---
+
+<div align="center">
+
+**Made with care in Khandwa, Madhya Pradesh.**
+
+*Polythene bags, made simple.*
+
+</div>
