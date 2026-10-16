@@ -1035,6 +1035,14 @@ button {
   flex-wrap: wrap;
 }
 
+.contact-note {
+  margin-top: 18px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.78);
+  font-family: var(--font-body);
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
